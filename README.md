@@ -1,3 +1,5 @@
+<h1 align="center">Hello 👋 Rohith Reddy.G.K</h1>
+
 # 💫 About Me:
 🔭 I’m currently pursuing by Under Graduation B.E in Information Science and Engineering.<br>👯 I’m an AI & ML Enthusiast .<br>🌱 Proficient Full Stack Developer.<br>💬 Ask me about Java concepts.<br>🌍 Fun fact: I love traveling and have a goal to visit all continents while working as a digital nomad.<br>
 
