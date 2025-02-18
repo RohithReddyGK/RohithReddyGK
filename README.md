@@ -3,7 +3,6 @@
 # 💫 About Me:
 🔭 I’m currently pursuing by Under Graduation B.E in Information Science and Engineering.<br>👯 I’m an AI & ML Enthusiast .<br>🌱 Proficient Full Stack Developer.<br>💬 Ask me about Java concepts.<br>🌍 Fun fact: I love traveling and have a goal to visit all continents while working as a digital nomad.<br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohithreddygk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gkrohithreddy@gmail.com) 
 
@@ -14,6 +13,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=RohithReddyGK&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RohithReddyGK&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=RohithReddyGK&icon=5&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Buy Me a Coffee) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
