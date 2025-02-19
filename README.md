@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohith Reddy.G.K</h1>
 <h3 align="center">A passionate Full Stack Developer and AI-ML Enthusiast from India. Currently pursuing by Under Graduation B.E in Information Science and Engineering.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rohithreddygk&label=Profile%20views&color=0e75b6&style=flat" alt="rohithreddygk" /> </p>
-
 - 🔭 I’m currently working on [Job Exam Syllabus](https://github.com/RohithReddyGK/Job-Exam-Syllabus)
 
 - 🌱 I’m currently learning **React and AI-ML concepts**
@@ -31,4 +29,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohithreddygk&" alt="rohithreddygk" /></p>
 
 <h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/RohithReddyGK"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="RohithReddyGK" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/RohithReddyGK"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="RohithReddyGK" /></a></p><br><br>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rohithreddygk&label=Profile%20views&color=0e75b6&style=flat" alt="rohithreddygk" /> </p>
