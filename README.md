@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **React and AI-ML concepts**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RohithReddyGK](https://github.com/RohithReddyGK)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/RohithReddyGK)
 
 - 💬 Ask me about **Java concepts**
 
 - 📫 How to reach me **gkrohithreddy@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/rohithreddygk](www.linkedin.com/in/rohithreddygk)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/rohithreddygk/)
 
 - ⚡ Fun fact **I love traveling and have a goal to visit all continents while working as a digital nomad.**
 
