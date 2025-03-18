@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohith Reddy.G.K</h1>
 <h3 align="center">A passionate Full Stack Developer and AI-ML Enthusiast from India. Currently pursuing by Under Graduation B.E in Information Science and Engineering.</h3>
 
-- 🔭 I’m currently working on [Job Exam Syllabus](https://github.com/RohithReddyGK/Job-Exam-Syllabus)
+- 🔭 I’m currently practicing on [Full Stack](https://github.com/RohithReddyGK/Full-Stack-Practice)
 
 - 🌱 I’m currently learning **React and AI-ML concepts**
 
