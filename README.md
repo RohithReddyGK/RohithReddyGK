@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently practicing on [Full Stack](https://github.com/RohithReddyGK/Full-Stack-Practice)
 
-- 🌱 I’m currently learning **React and AI-ML concepts**
+- 🌱 I’m currently learning **AI-ML concepts**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/RohithReddyGK)
 
