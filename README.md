@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ROHITH REDDY G K</h1>
-<h3 align="center">A passionate frontend developer and AI/ML Enthusiast from India. Pursuing my final year B.E-ISE @AMC.</h3>
+<h3 align="center">A passionate FullStack Developer and AI/ML Enthusiast from India. Pursuing my Final year B.E-ISE at AMC Engineering College.</h3>
 
 - 🔭 I’m currently working on **ADMET.**
 
