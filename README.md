@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working on **[ADMET-X](https://admet-x.vercel.app)**
 
-- 🌱 I’m currently learning **modern frameworks and more about AI.**
+- 🌱 I’m currently learning **Modern Frameworks and more about AI.**
 
 - 👯 I’m looking to collaborate on **Open-Source projects.**
 
-- 👨‍💻 All of my projects are available at [https://rohith-portfolio-gk.netlify.app/](https://rohith-portfolio-gk.netlify.app/)
-
 - 💬 Ask me about **Java,Python,FrontEnd and AI.**
 
-- 📫 How to reach me **gkrohithreddy@gmail.com**
+- 👨‍💻 Know more about my experience, skills, projects and achievements via my [**Portfolio**](https://rohith-portfolio-gk.netlify.app/)
 
-- 📄 Know about my experiences [https://rohith-portfolio-gk.netlify.app/Resume.pdf](https://rohith-portfolio-gk.netlify.app/Resume.pdf)
+- 📄 Have a look at my [**Resume**](https://rohith-portfolio-gk.netlify.app/Resume.pdf)
+
+-  📫 How to reach me **gkrohithreddy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
