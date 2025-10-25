@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ROHITH REDDY G K</h1>
 <h3 align="center">A passionate FullStack Developer and AI/ML Enthusiast from India. Pursuing my Final year B.E-ISE at AMC Engineering College.</h3>
 
-- 🔭 I’m currently working on **ADMET-X.**
+- 🔭 I’m currently working on **[ADMET-X](https://admet-x.vercel.app)**
 
 - 🌱 I’m currently learning **modern frameworks and more about AI.**
 
