@@ -2,7 +2,7 @@
 <h3 align="center">A passionate FullStack Developer and AI/ML Enthusiast from India. Pursuing my Final year B.E-ISE at AMC Engineering College.</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c8769e6a-0ab3-4940-aff4-7499df684de5" width=400 alt="Coading" />
+  <img src="https://github.com/user-attachments/assets/3b786a18-ccd6-42ad-b1a3-1f604d4dd98c" width=400 alt="Coading" />
 </p>
 
 - 🔭 I’m currently working on **[ADMET-X](https://admet-x.vercel.app)**
