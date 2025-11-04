@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://rohith-portfolio-gk.netlify.app">ROHITH REDDY G K</a></h1>
 <h3 align="center">A passionate FullStack Developer and AI/ML Enthusiast from India. Pursuing my Final year B.E-ISE at AMC Engineering College.</h3>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3b786a18-ccd6-42ad-b1a3-1f604d4dd98c" width=400 alt="Coading" />
-</p>
-
 - 🔭 I’m currently working on **[ADMET-X](https://admet-x.vercel.app)**
 
 - 🌱 I’m currently learning **Modern Frameworks and more about AI.**
