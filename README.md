@@ -11,7 +11,7 @@
 
 - 👨‍💻 Know more about my experience, skills, projects and achievements via my [**Portfolio**](https://rohith-portfolio-gk.netlify.app/)
 
-- 📄 Have a look at my [**Resume**](https://github.com/user-attachments/files/23396889/RohithReddyGK_FSD_AIML)
+- 📄 Have a look at my [**Resume**](https://github.com/user-attachments/files/23396889/RohithReddyGK_FSD_AIML/)
 
 
 -  📫 How to reach me **gkrohithreddy@gmail.com**
