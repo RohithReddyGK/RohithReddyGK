@@ -11,7 +11,7 @@
 
 - 👨‍💻 Know more about my experience, skills, projects and achievements via my [**Portfolio**](https://rohith-portfolio-gk.netlify.app/)
 
-- 📄 Have a look at my [**Resume**](https://drive.google.com/file/d/1d2ZdIxYzZbbqMn7ov6-KOa4qkPG3Pleo/view?usp=drive_link)
+- 📄 Have a look at my [**Resume**](https://drive.google.com/file/d/1SJs2ue_8VVtOonCoDeoFAU3fGhZlGwks/view?usp=drive_link)
 
 -  📫 How to reach me **gkrohithreddy@gmail.com**
 
