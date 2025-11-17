@@ -98,6 +98,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=rohithreddygk&theme=tokyonight&margin-w=10&no-bg=true&no-frame=true" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=rohithreddygk&label=Profile+Views&color=1e90ff&style=flat" />
 </p>
