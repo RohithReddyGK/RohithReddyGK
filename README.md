@@ -69,7 +69,7 @@
   <tr>
     <td align="center">
       <img 
-        src="https://streak-stats.demolab.com/?user=rohithreddygk&theme=default&hide_border=false"
+        src="https://streak-stats.vercel.app/?user=rohithreddygk&theme=default&hide_border=false"
         height="200"
       />
     </td>
