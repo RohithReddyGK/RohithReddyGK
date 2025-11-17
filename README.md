@@ -38,7 +38,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rohithreddygk&show_icons=true&theme=tokyonight&hide_border=true" height="200"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithreddygk&layout=compact&theme=tokyonight&hide_border=true" height="200"/>
 </p>
 
