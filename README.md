@@ -20,7 +20,7 @@
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/rohithreddygk" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
@@ -32,14 +32,14 @@
 
 ---
 
-## ⚙️ Tech Stack  
+## Tech Stack  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,react,tailwind,html,css,nodejs,flask,fastapi,git,github,mongodb,mysql,postgresql,pytorch,tensorflow,sklearn,powerbi,tableau" />
 </p>
 
 ---
 
-## 📊 GitHub Stats — TokyoNight Unified Theme
+## GitHub Stats
 
 <table align="center">
   <tr>
@@ -60,23 +60,12 @@
   </tr>
 </table>
 
----
-
 ## 🏆 GitHub Trophies  
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=rohithreddygk&theme=tokyonight&margin-w=10&no-bg=true&no-frame=true" />
 </p>
 
----
-
 ## 👀 Profile Views  
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rohithreddygk&label=Profile+Views&color=1e90ff&style=flat" />
-</p>
-
----
-
-<!-- FOOTER WAVE -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="90%">
 </p>
