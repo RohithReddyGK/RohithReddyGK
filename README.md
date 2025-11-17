@@ -13,9 +13,7 @@
 - 📄 Resume: **[View Here](https://drive.google.com/file/d/1sdepJ0i9cQYVejIe9somUdQEJ_8-KIaj/view?usp=drive_link)**  
 - 📧 Email: **gkrohithreddy@gmail.com**
 
-<br/>
-
-<h2>Connect With Me</h2>
+<h3>Connect With Me</h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/rohithreddygk" target="_blank">
@@ -26,9 +24,7 @@
 </a>
 </p>
 
-<br/>
-
-<h2>Tech Stack</h2>
+<h3>Tech Stack</h3>
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -47,9 +43,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
-<br/>
-
-<h2>Tools & Platforms</h2>  
+<h3>Tools & Platforms</h3>  
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -63,9 +57,7 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-00C7B7.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Cloud Deployment](https://img.shields.io/badge/Cloud-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-<br/>
-
-<h2>GitHub Stats</h2>
+<h3>GitHub Stats</h3>
 
 <table align="center">
   <tr>
@@ -101,7 +93,7 @@
 
 <br/>
 
-<h2>GitHub Trophies</h2>
+<h3>GitHub Trophies</h3>
 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=rohithreddygk&theme=tokyonight&margin-w=10&no-bg=true&no-frame=true" />
