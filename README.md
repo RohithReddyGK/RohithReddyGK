@@ -3,9 +3,7 @@
 
 <br/>
 
-<h2>About Me</h2>  
-
-<!-- no underline -->
+<h3>About Me</h3>  
 
 - 🔭 Currently building **[ADMET-X](https://admet-x.vercel.app)**  
 - 🌱 Exploring **Advanced AI, ML, and Full-Stack Frameworks**  
