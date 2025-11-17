@@ -7,8 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=70a5fd&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Engineer;Building+ADMET-X+💊;Lifelong+Learner+📘" />
 </p>
 
----
-
 ## 💫 About Me  
 - 🔭 Currently building **[ADMET-X](https://admet-x.vercel.app)**  
 - 🌱 Exploring **Advanced AI, ML, and Full-Stack Frameworks**  
@@ -17,8 +15,6 @@
 - 🌐 Portfolio: **[rohith-portfolio-gk.netlify.app](https://rohith-portfolio-gk.netlify.app/)**  
 - 📄 Resume: **[View Here](https://drive.google.com/file/d/1sdepJ0i9cQYVejIe9somUdQEJ_8-KIaj/view?usp=drive_link)**  
 - 📧 Email: **gkrohithreddy@gmail.com**
-
----
 
 ## Connect With Me
 <p align="left">
@@ -30,14 +26,10 @@
 </a>
 </p>
 
----
-
 ## Tech Stack  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,react,tailwind,html,css,nodejs,flask,fastapi,git,github,mongodb,mysql,postgresql,pytorch,tensorflow,sklearn,powerbi,tableau" />
 </p>
-
----
 
 ## GitHub Stats
 
