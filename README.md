@@ -29,100 +29,63 @@
 </a>
 </p>
 
----
-
 ## ⚙️ Tech Stack  
 
-### 🧩 Languages  
-`Java` • `Python` • `JavaScript` • `SQL` • `NoSQL`
+<div align="center">
 
-### 📚 Frameworks & Libraries  
-`React.js` • `Tailwind CSS` • `Flask` • `Django` • `Chart.js` • `Recharts`  
-`PyTorch` • `TensorFlow` • `Scikit-Learn`
+<!-- Languages -->
+<table>
+  <tr>
+    <td align="center" width="250">
+      <h3>🧩 Languages</h3>
+      <img src="https://skillicons.dev/icons?i=java,python,javascript" height="50" />
+      <br><br>
+      <b>Java · Python · JavaScript · SQL · NoSQL</b>
+    </td>
 
-### 🗄️ Databases  
-`MySQL` • `PostgreSQL` • `MongoDB` • `Oracle`
+    <!-- Frameworks -->
+    <td align="center" width="250">
+      <h3>📚 Frameworks & Libraries</h3>
+      <img src="https://skillicons.dev/icons?i=react,tailwind,flask,django,pytorch,tensorflow,scikitlearn" height="50" />
+      <br><br>
+      <b>React · Tailwind · Flask · Django · Chart.js · Recharts</b>
+    </td>
+  </tr>
 
-### 🛠️ Tools & Platforms  
-`Git` • `GitHub` • `Docker` • `Power BI` • `Tableau`
+  <tr>
+    <!-- Databases -->
+    <td align="center" width="250">
+      <h3>🗄️ Databases</h3>
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" height="50" />
+      <img src="https://upload.wikimedia.org/wikipedia/en/6/68/Oracle_logo.svg" height="35" />
+      <br><br>
+      <b>MySQL · PostgreSQL · MongoDB · Oracle</b>
+    </td>
 
-### 💡 Core Competencies  
-`DSA` • `OOPS` • `REST APIs` • `ML Model Deployment` • `CI/CD` • `Cloud Deployment`
+    <!-- Tools -->
+    <td align="center" width="250">
+      <h3>🛠️ Tools & Platforms</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,docker" height="50" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="40" />
+      <br><br>
+      <b>Git · GitHub · Docker · Power BI · Tableau</b>
+    </td>
+  </tr>
 
----
-## ⚙️ Tech Stack  
+  <tr>
+    <!-- Core Competencies -->
+    <td colspan="2" align="center" width="500">
+      <h3>💡 Core Competencies</h3>
+      <b>
+      DSA · OOPS · REST APIs · ML Model Training & Deployment ·  
+      CI/CD · Cloud Deployment
+      </b>
+    </td>
+  </tr>
+</table>
 
-<details>
-<summary><b>🧩 Languages</b></summary>
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript" height="50"/>
-</p>
-</details>
-
-<details>
-<summary><b>📚 Frameworks & Libraries</b></summary>
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,flask,django,pytorch,tensorflow,scikitlearn" height="50"/>  
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/chartdotjs.svg" height="40"/>  
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/recharts.svg" height="40"/>
-</p>
-</details>
-
-<details>
-<summary><b>🗄️ Databases</b></summary>
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/en/6/68/Oracle_logo.svg" height="40"/>
-</p>
-</details>
-
-<details>
-<summary><b>🛠️ Tools & Platforms</b></summary>
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="40"/>
-</p>
-</details>
-
-<details>
-<summary><b>💡 Core Competencies</b></summary>
-<p>
-<b>DSA</b> • <b>OOPS</b> • <b>REST APIs</b> • <b>ML Model Deployment</b> •  
-<b>CI/CD</b> • <b>Cloud Deployment</b>
-</p>
-</details>
-
----
-
-## ⚙️ Tech Stack  
-
-### 🧩 Languages  
-> **Java · Python · JavaScript · SQL · NoSQL**
-
----
-
-### 📚 Frameworks & Libraries  
-> **React.js · Tailwind CSS · Flask · Django · Chart.js · Recharts  
-> PyTorch · TensorFlow · Scikit-Learn**
-
----
-
-### 🗄️ Databases  
-> **MySQL · PostgreSQL · MongoDB · Oracle**
-
----
-
-### 🛠️ Tools & Platforms  
-> **Git · GitHub · Docker · Power BI · Tableau**
-
----
-
-### 💡 Core Competencies  
-> **DSA · OOPS · REST APIs · ML Model Training & Deployment  
-> CI/CD · Cloud Deployment**
-
----
+</div>
 
 ## GitHub Stats
 
