@@ -1,3 +1,43 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20my%20GitHub&fontAlign=50&fontAlignY=40&color=gradient&animation=twinkling&fontSize=40" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/vertical-lines/gradient.png" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://lottie.host/4cfa7d91-2bbf-42b9-a9ad-749ac24d9023/ZAZqEqj0Jb.json" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://dynamic-skills-cloud.vercel.app/api/cloud?skills=Python,JavaScript,React,Node,Tailwind,Flask,AI,ML,DeepLearning,PostgreSQL,Git,Java,MongoDB,TensorFlow,PyTorch" width="450"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&width=520&lines=System+Online...;Loading+Rohith's+Profile...;Initializing+AI%2FML+Modules...;Launching+Full+Stack+Mode...;Welcome+to+my+Universe+⚡" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BEPb/BEPb/refs/heads/main/assets/Bottom_down.svg" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohithreddygk&theme=tokyo-night&area=true&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohithreddygk&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=gradient&bgColor=%23000&textColor=%23fff" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
+
 <!-- TITLE -->
 <h1 align="center">Hi 👋, I'm <a href="https://rohith-portfolio-gk.netlify.app" target="_blank">ROHITH REDDY G K</a></h1>
 <h3 align="center">Full Stack Developer • AI/ML Engineer • Final Year ISE Student at AMC Engineering College (India)</h3>
