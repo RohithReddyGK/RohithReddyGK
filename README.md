@@ -1,39 +1,72 @@
-<h1 align="center">Hi 👋, I'm <a href="https://rohith-portfolio-gk.netlify.app">ROHITH REDDY G K</a></h1>
-<h3 align="center">A passionate FullStack Developer and AI/ML Enthusiast from India. Pursuing my Final year B.E-ISE at AMC Engineering College.</h3>
+<!-- TITLE -->
+<h1 align="center">Hi 👋, I'm <a href="https://rohith-portfolio-gk.netlify.app" target="_blank">ROHITH REDDY G K</a></h1>
+<h3 align="center">Full Stack Developer • AI/ML Engineer • Final Year ISE Student at AMC Engineering College (India)</h3>
 
-- 🔭 I’m currently working on **[ADMET-X](https://admet-x.vercel.app)**
-
-- 🌱 I’m currently learning **Modern Frameworks and more about AI.**
-
-- 👯 I’m looking to collaborate on **Open-Source projects.**
-
-- 💬 Ask me about **Java,Python,FrontEnd and AI.**
-
-- 👨‍💻 Know more about my experience, skills, projects and achievements via my [**Portfolio**](https://rohith-portfolio-gk.netlify.app/)
-
-- 📄 Have a look at my [**Resume**](https://drive.google.com/file/d/1sdepJ0i9cQYVejIe9somUdQEJ_8-KIaj/view?usp=drive_link)
-
--  📫 How to reach me **gkrohithreddy@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rohithreddygk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohithreddygk" height="30" width="40" /></a>
-<a href="https://kaggle.com/rohithreddygk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rohithreddygk" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@gkrohithreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@gkrohithreddy" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rohithgk911380_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohithgk911380_" height="30" width="40" /></a>
+<!-- ANIMATED TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00AEEF&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Enthusiast;React+%7C+Python+%7C+Flask+%7C+Tailwind;Building+ADMET-X+🚀" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohithreddygk&show_icons=true&locale=en&layout=compact" alt="rohithreddygk" /></p>
+## 🔥 About Me  
+- 🔭 I’m currently working on **[ADMET-X](https://admet-x.vercel.app)**  
+- 🌱 Learning **Modern Full-Stack Frameworks & Advanced AI/ML**  
+- 👯 Open to collaborate on **AI, Full-Stack & Open-Source**  
+- 💬 Ask me about **Java, Python, Frontend, Machine Learning**  
+- 👨‍💻 Explore my work: **[Portfolio](https://rohith-portfolio-gk.netlify.app/)**  
+- 📄 View my **[Resume](https://drive.google.com/file/d/1sdepJ0i9cQYVejIe9somUdQEJ_8-KIaj/view?usp=drive_link)**  
+- 📫 Reach me at **gkrohithreddy@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohithreddygk&show_icons=true&locale=en" alt="rohithreddygk" /></p>
+---
 
+## 🤝 Connect With Me
+<p align="center">
+<a href="https://linkedin.com/in/rohithreddygk" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+<a href="https://kaggle.com/rohithreddygk" target="_blank"><img src="https://skillicons.dev/icons?i=kaggle" height="45"/></a>
+<a href="https://leetcode.com/rohithgk911380_" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" height="45"/></a>
+<a href="https://www.hackerrank.com/gkrohithreddy" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" height="45"/></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohithreddygk&" alt="rohithreddygk" /></p>
+---
 
-<h3 align="left">Tropies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohithreddygk" alt="rohithreddygk" /></a> </p>
+## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,tailwind,html,css,nodejs,flask,fastapi,git,github,mongodb,mysql,postgresql,pytorch,tensorflow,sklearn,powerbi,tableau" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohithreddygk&label=Profile%20views&color=0e75b6&style=flat" alt="rohithreddygk" /> </p>
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohithreddygk&theme=tokyonight&hide_border=true" height="200" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohithreddygk&show_icons=true&theme=tokyonight&hide_border=true" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithreddygk&layout=compact&theme=tokyonight&hide_border=true" height="200"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohithreddygk&theme=onedark&margin-w=10&column=7" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (Animated)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohithreddygk/rohithreddygk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 👀 Profile Views  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohithreddygk&label=Profile+Views&color=blue&style=flat" />
+</p>
