@@ -1,8 +1,6 @@
 <!-- TITLE -->
 <h1 align="center">Hi 👋, I'm <a href="https://rohith-portfolio-gk.netlify.app" target="_blank" style="color:#70a5fd;">ROHITH REDDY G K</a></h1>
 
-<br/>
-
 <h3>About Me</h3>  
 
 - 🔭 Currently building **[ADMET-X](https://admet-x.vercel.app)**  
@@ -90,8 +88,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
 
 <h3>GitHub Trophies</h3>
 
