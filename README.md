@@ -42,6 +42,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithreddygk&layout=compact&theme=tokyonight&hide_border=true" height="200"/>
 </p>
 
+## Summary
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohithreddygk&theme=tokyonight" />
+</p>
+
 ## GitHub Trophies  
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=rohithreddygk&theme=onedark&margin-w=10&column=7" />
@@ -50,28 +55,4 @@
 ## Profile Views  
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rohithreddygk&label=Profile+Views&color=blue&style=flat" />
-</p>
-
----
-
-# 🌟 Highlight Summary (Interactive Card)
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohithreddygk&theme=tokyonight" />
-</p>
-
----
-
-# 🎯 Featured Projects (Interactive Badges)
-<p align="left">
-  <a href="https://admet-x.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/ADMET--X-AI%20Drug%20Discovery-blue?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-  <a href="https://rohith-portfolio-gk.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-orange?style=for-the-badge&logo=react" />
-  </a>
-</p>
-
-# 🗺️ Visitors World Map (Interactive)
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/rohithreddygkgk?ext=activity" />
 </p>
