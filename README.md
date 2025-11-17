@@ -4,7 +4,7 @@
 
 <!-- ANIMATED TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00AEEF&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Enthusiast;React+%7C+Python+%7C+Flask+%7C+Tailwind;" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00AEEF&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Enthusiast;" />
 </p>
 
 ## About Me  
