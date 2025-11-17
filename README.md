@@ -5,6 +5,8 @@
 
 <h2>About Me</h2>  
 
+<!-- no underline -->
+
 - 🔭 Currently building **[ADMET-X](https://admet-x.vercel.app)**  
 - 🌱 Exploring **Advanced AI, ML, and Full-Stack Frameworks**  
 - 🤝 Open to collaborations in **AI/ML & Full Stack**  
