@@ -29,23 +29,26 @@
   <img src="https://skillicons.dev/icons?i=python,java,javascript,react,tailwind,html,css,nodejs,flask,fastapi,git,github,mongodb,mysql,postgresql,pytorch,tensorflow,sklearn,powerbi,tableau" />
 </p>
 
-## GitHub Stats  
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=rohithreddygk&theme=tokyonight&hide_border=true" height="200" />
-</p>
+## GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohithreddygk&show_icons=true&theme=tokyonight&hide_border=true" height="200"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithreddygk&layout=compact&theme=tokyonight&hide_border=true" height="200"/>
-</p>
-
-## Summary
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohithreddygk&theme=tokyonight" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=rohithreddygk&theme=tokyonight&hide_border=true&ring=00ffff&fire=00ffff" height="200" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=rohithreddygk&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ffff&icon_color=00ffff" height="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithreddygk&layout=compact&theme=tokyonight&hide_border=true&title_color=00ffff" height="200"/>
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohithreddygk&theme=tokyonight" height="200"/>
+    </td>
+  </tr>
+</table>
 
 ## GitHub Trophies  
 <p align="left">
