@@ -51,3 +51,53 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rohithreddygk&label=Profile+Views&color=blue&style=flat" />
 </p>
+
+---
+
+# 🌟 Highlight Summary (Interactive Card)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohithreddygk&theme=tokyonight" />
+</p>
+
+---
+
+# 🎯 Featured Projects (Interactive Badges)
+<p align="left">
+  <a href="https://admet-x.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/ADMET--X-AI%20Drug%20Discovery-blue?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://rohith-portfolio-gk.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-orange?style=for-the-badge&logo=react" />
+  </a>
+</p>
+
+---
+
+# ✨ Fun Badges  
+<p align="left">
+  <img src="https://img.shields.io/badge/Code%20Everyday-Yes-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Coffee-Powered☕-brown?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Believer-100%25-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Lover-%E2%9D%A4-red?style=flat-square" />
+</p>
+
+---
+
+# 🗺️ Visitors World Map (Interactive)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/rohithreddygkgk?ext=activity" />
+</p>
+
+---
+
+# 💡 Dev Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+# 🌊 Wave Footer  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" />
+</p>
