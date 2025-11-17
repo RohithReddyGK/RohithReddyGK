@@ -34,7 +34,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=rohithreddygk&theme=transparent&hide_border=true&ring=00ffff&fire=00ffff&currStreakLabel=00ffff" height="200" />
+      <img src="https://streak-stats-github.herokuapp.com/?user=rohithreddygk&theme=transparent&hide_border=true&ring=00ffff&fire=00ffff&currStreakLabel=00ffff" height="200" />
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=rohithreddygk&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ffff&icon_color=00ffff" height="200"/>
