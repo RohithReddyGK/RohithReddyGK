@@ -1,10 +1,6 @@
 <!-- TITLE -->
 <h1 align="center">Hi 👋, I'm <a href="https://rohith-portfolio-gk.netlify.app" target="_blank" style="color:#70a5fd;">ROHITH REDDY G K</a></h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohithreddygk&label=Profile+Views&color=1e90ff&style=flat" />
-</p>
-
 <!-- ANIMATED TYPING -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=70a5fd&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Engineer;Lifelong+Learner+📘" />
@@ -100,4 +96,8 @@
 ## GitHub Trophies  
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=rohithreddygk&theme=tokyonight&margin-w=10&no-bg=true&no-frame=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohithreddygk&label=Profile+Views&color=1e90ff&style=flat" />
 </p>
