@@ -31,7 +31,7 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohithreddygk&theme=tokyonight&hide_border=true" height="200" />
+  <img src="https://streak-stats.demolab.com?user=rohithreddygk&theme=tokyonight&hide_border=true" height="200" />
 </p>
 
 <p align="center">
