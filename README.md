@@ -7,7 +7,7 @@
 
 <!-- ANIMATED TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=70a5fd&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Engineer;Building+ADMET-X+💊;Lifelong+Learner+📘" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=70a5fd&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Engineer;Lifelong+Learner+📘" />
 </p>
 
 ## About Me  
