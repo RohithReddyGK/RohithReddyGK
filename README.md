@@ -19,7 +19,9 @@
 ## 🤝 Connect With Me
 <p align="center">
 <a href="https://linkedin.com/in/rohithreddygk" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-<a href="https://www.hackerrank.com/profile/gkrohithreddy" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" height="45"/></a>
+<a href="https://www.hackerrank.com/profile/gkrohithreddy" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="45"/>
+</a>
 </p>
 
 ## 🛠️ Tech Stack  
