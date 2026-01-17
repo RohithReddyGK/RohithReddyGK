@@ -94,14 +94,15 @@
   </tr>
 </table>
 
-<h3>GitHub Trophies</h3>
+<h3>GitHub Trophies & Achievements</h3>
 
 <p><i>Consistent contributor with growing open-source and research projects</i></p>
 
 <p>
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=rohithreddygk&theme=algolia&cache_seconds=86400"
-  />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Projects-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full--Stack-Developer-informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Research-Oriented-orange?style=for-the-badge" />
 </p>
 
 <p>
