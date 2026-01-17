@@ -77,13 +77,6 @@
         height="200"
       />
     </td>
-    <td align="center" width="50%">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=rohithreddygk&show_icons=true"
-        height="200"
-        onerror="this.parentElement.style.display='none'"
-      />
-    </td>
   </tr>
 
   <tr>
@@ -96,7 +89,7 @@
   </tr>
 </table>
 
-<h3>GitHub Trophies & Achievements</h3>
+<h3>Achievements</h3>
 
 <p>
   <img src="https://img.shields.io/badge/AI%20%26%20ML-Projects-blueviolet?style=for-the-badge" />
