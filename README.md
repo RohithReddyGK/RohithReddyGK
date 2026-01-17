@@ -1,5 +1,8 @@
 <!-- TITLE -->
 <h1 align="center">Hi 👋, I'm <a href="https://rohith-portfolio-gk.netlify.app" target="_blank" style="color:#70a5fd;">ROHITH REDDY G K</a></h1>
+<p align="center">
+  <b>AI / ML Engineer • Full Stack Developer • Research-Oriented Final Year Student</b>
+</p>
 
 <h3>About Me</h3>  
 
