@@ -16,14 +16,32 @@
 
 <h3>Connect With Me</h3>
 
-<p align="left">
-  <a href="https://linkedin.com/in/rohithreddygk" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-  </a>
-  <a href="https://rohith-portfolio-gk.netlify.app/#contact" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white" height="45"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td valign="middle">
+      <a href="https://linkedin.com/in/rohithreddygk" target="_blank">
+        <img
+          src="https://skillicons.dev/icons?i=linkedin"
+          height="45"
+          alt="LinkedIn"
+        />
+      </a>
+    </td>
+
+    <td valign="middle">
+      <a
+        href="https://rohith-portfolio-gk.netlify.app/#contact"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <img
+          src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"
+          alt="Portfolio"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h3>Languages & Core</h3>
 
