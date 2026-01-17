@@ -69,21 +69,22 @@
 
 <h3>GitHub Stats</h3>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <img
         src="https://streak-stats.vercel.app/?user=rohithreddygk&theme=default&cache_seconds=86400"
         height="200"
       />
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <img
         src="https://github-readme-stats.vercel.app/api?username=rohithreddygk&show_icons=true&theme=default&cache_seconds=86400"
         height="200"
       />
     </td>
   </tr>
+
   <tr>
     <td align="center" colspan="2">
       <img
