@@ -27,7 +27,6 @@
         />
       </a>
     </td>
-
     <td valign="middle">
       <a
         href="https://rohith-portfolio-gk.netlify.app/#contact"
