@@ -99,7 +99,7 @@
   <tr>
     <td align="center" colspan="2">
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohithreddygk&theme=vue&cache_seconds=86400"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohithreddygk&theme=blue&cache_seconds=86400"
         height="200"
       />
     </td>
