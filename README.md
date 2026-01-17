@@ -55,17 +55,30 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-00C7B7.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Cloud Deployment](https://img.shields.io/badge/Cloud-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-## 📊 GitHub Stats
+<h3>GitHub Stats</h3>
 
-![GitHub Streak](https://streak-stats.vercel.app/?user=rohithreddygk&theme=default&cache_seconds=86400)
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.vercel.app/?user=rohithreddygk&theme=default&cache_seconds=86400" height="200"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=rohithreddygk&show_icons=true&theme=default&cache_seconds=86400" height="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithreddygk&layout=compact&cache_seconds=86400" height="200"/>
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohithreddygk&theme=vue&cache_seconds=86400" height="200"/>
+    </td>
+  </tr>
+</table>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohithreddygk&show_icons=true&theme=default&cache_seconds=86400)
+<h3>GitHub Trophies</h3>
+<img src="https://github-profile-trophy.vercel.app/?username=rohithreddygk&theme=algolia&cache_seconds=86400"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohithreddygk&layout=compact&cache_seconds=86400)
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohithreddygk&theme=vue&cache_seconds=86400)
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rohithreddygk&theme=algolia&cache_seconds=86400)
-
-![Profile Views](https://komarev.com/ghpvc/?username=rohithreddygk&label=Profile+Views&color=1e90ff&style=flat)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=rohithreddygk&label=Profile+Views&color=1e90ff&style=flat"/>
+</p>
