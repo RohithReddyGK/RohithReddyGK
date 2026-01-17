@@ -21,7 +21,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
   <a href="https://rohith-portfolio-gk.netlify.app/#contact" target="_blank">
-    <img src="https://github.com/user-attachments/assets/f643b90a-1780-4a1f-9237-de84132738a5" height="80"/>
+    <img src="https://github.com/user-attachments/assets/f643b90a-1780-4a1f-9237-de84132738a5" height="150"/>
   </a>
 </p>
 
