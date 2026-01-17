@@ -65,21 +65,13 @@
         height="200"
       />
     </td>
-    <td align="center">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=rohithreddygk&show_icons=true&theme=default&hide_border=false"
-        height="200"
-      />
-    </td>
-  </tr>
-
+    
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohithreddygk&show_icons=true&theme=default&cache_seconds=86400
+</tr>
   <tr>
-    <td align="center">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithreddygk&layout=compact&theme=default&hide_border=false"
-        height="200"
-      />
-    </td>
+    
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohithreddygk&layout=compact&cache_seconds=86400)
+
     <td align="center">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohithreddygk&theme=vue"
@@ -91,9 +83,7 @@
 
 <h3>GitHub Trophies</h3>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohithreddygk&theme=tokyonight&margin-w=10&no-bg=true&no-frame=true" />
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rohithreddygk&theme=algolia&cache_seconds=86400)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rohithreddygk&label=Profile+Views&color=1e90ff&style=flat" />
