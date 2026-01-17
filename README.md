@@ -35,10 +35,10 @@
 
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-00C49F.svg?style=for-the-badge&logo=recharts&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white) 
@@ -72,26 +72,40 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://streak-stats.vercel.app/?user=rohithreddygk&theme=default&cache_seconds=86400" height="200"/>
+      <img
+        src="https://streak-stats.vercel.app/?user=rohithreddygk&theme=default&cache_seconds=86400"
+        height="200"
+      />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=rohithreddygk&show_icons=true&theme=default&cache_seconds=86400" height="200"/>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=rohithreddygk&show_icons=true&theme=default&cache_seconds=86400"
+        height="200"
+      />
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohithreddygk&theme=vue&cache_seconds=86400" height="200"/>
+    <td align="center" colspan="2">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohithreddygk&theme=vue&cache_seconds=86400"
+        height="200"
+      />
     </td>
   </tr>
 </table>
 
 <h3>GitHub Trophies</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=rohithreddygk&theme=algolia&cache_seconds=86400"/>
+
+<p><i>Consistent contributor with growing open-source and research projects</i></p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=rohithreddygk&label=Profile+Views&color=1e90ff&style=flat"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=rohithreddygk&theme=algolia&cache_seconds=86400"
+  />
 </p>
 
-<h3>GitHub Trophies</h3>
-<p><i>Consistent contributor with growing open-source and research projects</i></p>
-<img src="https://github-profile-trophy.vercel.app/?username=rohithreddygk&theme=algolia&cache_seconds=86400"/>
+<p>
+  <img
+    src="https://komarev.com/ghpvc/?username=rohithreddygk&label=Profile+Views&color=1e90ff&style=flat"
+  />
+</p>
