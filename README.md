@@ -6,7 +6,7 @@
 
 <h3>About Me</h3>  
 
-🔭 My Final Year Project **[ADMET-X](https://admet-x.vercel.app)**  
+🔭 Final Year Project **[ADMET-X](https://admet-x.vercel.app)**  
 🌱 Exploring **Advanced AI, ML, and Full-Stack Frameworks**  
 🤝 Open to collaborations in **AI/ML & Full Stack**  
 💬 Ask me about **Java, Python, React, AI/ML**  
