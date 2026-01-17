@@ -79,8 +79,9 @@
     </td>
     <td align="center" width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=rohithreddygk&show_icons=true&theme=default&cache_seconds=86400"
+        src="https://github-readme-stats.vercel.app/api?username=rohithreddygk&show_icons=true"
         height="200"
+        onerror="this.parentElement.style.display='none'"
       />
     </td>
   </tr>
@@ -97,10 +98,7 @@
 
 <h3>GitHub Trophies & Achievements</h3>
 
-<p><i>Consistent contributor with growing open-source and research projects</i></p>
-
 <p>
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20%26%20ML-Projects-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Full--Stack-Developer-informational?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Research-Oriented-orange?style=for-the-badge" />
